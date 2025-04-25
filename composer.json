@@ -1,0 +1,19 @@
+{
+    "name": "jaycey/lar-wms",
+    "description": "laravel-based management warehouse system",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jaycey\\LarWms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jaycey Velandres",
+            "email": "jvelandres@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
